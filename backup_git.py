@@ -10,7 +10,7 @@ from urllib.error import HTTPError
 import glob
 
 # Configuration variables
-TOKEN = "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"
+TOKEN = "ghp_======================"
 REPO = "Barconero/My-K2-Pro-config"
 DIR = "/mnt/UDISK/printer_data/config"
 
